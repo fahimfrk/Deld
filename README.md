@@ -8,3 +8,4 @@ mode.
 In dim mode, 2 lights are switched on, while in bright mode, 5 lights are activated. This priority encoder-
 based switching arrangement ensures efficient control of headlight intensity without the need for complex power
 devices.
+video Demonstration of how the circuit works,principle behind the working of project,and how we implement it-https://drive.google.com/file/d/1AHmsauaIwVOFceY-YCDhs8mBcGQ55iQW/view?usp=drive_link
